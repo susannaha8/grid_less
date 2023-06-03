@@ -1,4 +1,4 @@
-code\_generation\_helpers module
+code\_generation\_helpers 
 ================================
 
 .. automodule:: code_generation_helpers
