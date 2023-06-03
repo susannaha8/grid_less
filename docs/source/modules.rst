@@ -1,7 +1,5 @@
-grid_less
-=========
 
 .. toctree::
-   :maxdepth: 4
+   :maxdepth: 1
 
    code_generation_helpers
